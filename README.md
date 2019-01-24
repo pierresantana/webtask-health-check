@@ -16,7 +16,7 @@ After installing wt-cli, login and create the webtask, just run it.
 
 ```bash
 curl 'https://<your-session>.sandbox.auth0-extend.com/webtask-health-check?host=google.com'
-{"status":"ONLINE"}
+{"code":200,"details":"ONLINE"}
 ```
 
 ## Parameters
