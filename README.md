@@ -23,3 +23,4 @@ curl 'https://<your-session>.sandbox.auth0-extend.com/webtask-health-check?host=
 
 - **host**: required
 - **port**: default 80
+- **timeout**: default 10 sec
